@@ -4,7 +4,6 @@
 /*   Powers                                                                   */
 /*                                                                            */
 /*   By: Yusuf Emre OZDEN | <yusufemreozdenn@gmail.com>                       */
-/*   Student ID: 200030087                                                    */
 /*                                                                            */      
 /*   https://GitHub.com/yusufemreozden                                        */
 /*   https://linkedIn.com/in/yusufemreozden                                   */
